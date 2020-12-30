@@ -21,7 +21,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 * `API_HASH`: Get these two values from [my.telegram.org/apps](https://my.telegram.org/apps).
   * N.B.: if Telegram is blocked by your ISP, try our [Telegram bot](https://telegram.dog/UseTGXBot) to get the IDs.
 
-#### Optional Environment Variables
+#### Optional Environment Variable
 
 * `ENV`: set this to `ANYTHING` if you want to use ENVIRON mode.
 
